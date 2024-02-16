@@ -1,0 +1,19 @@
+body{
+    background-color: royalblue;
+}
+.container{
+    padding-left: 740px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+p{
+    display: block;
+    padding: 15px;
+}
+.main-content{
+    cursor: pointer;
+}
